@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 	<ShortName>testdomain845</ShortName>
-	<Description>Search London Lionhearts Volleyball - Together We Roar </Description>
+	<Description>Search London Lionhearts Volleyball Club - Together We Roar </Description>
 	<Contact>help@wordpress.com</Contact>
 	<Url type="application/atom+xml" template="https://testdomain845.wordpress.com/?s={searchTerms}&amp;feed=atom" />
 	<Url type="rss+xml" template="https://testdomain845.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
 	<Url type="text/html" template="https://testdomain845.wordpress.com/?s={searchTerms}" method="GET" />
 	<Url type="application/opensearchdescription+xml" rel="self" template="https://testdomain845.wordpress.com/osd.xml" />
-	<LongName>London Lionhearts Volleyball</LongName>
+	<LongName>London Lionhearts Volleyball Club</LongName>
 	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://testdomain845.files.wordpress.com/2023/09/lionhearts-club-logo.jpg?w=16</Image>
 	<Image height="64" width="64" type="image/jpeg">https://testdomain845.files.wordpress.com/2023/09/lionhearts-club-logo.jpg?w=64</Image>
 	<Query role="example" searchTerms="photography" />
