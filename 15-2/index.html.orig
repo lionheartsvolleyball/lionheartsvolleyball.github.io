@@ -2068,33 +2068,5 @@ _stq.push(['view', {'blog':'223063431','v':'wpcom','tz':'0','user_id':'0','post'
 _stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRaGp+TjRzYk8/WjlKTnQ1VGYyeG1OSS56ZHdnaz03bDgtZ3Z1YXh5LEcvUTBydHZOeDVBfHYmSmU3d2UyZH4/Uj1DeE9jJl9KLEo2Y3ZuRF9fJnErVl1CL3kxbGxIQ3FNTGFSLi4xcTJMdnliJTBXSHBnSS1Vei4wNHJXTjEtWGd+ZFMtWHB2XTd+YmtUdF8wMVsrMGdCVFJwfF1tY2Q4LUhQP0lwU09pdnhPcHJQWzd8dklIYVpOUjRxUWpYSm9aZ21iN19fTC1TSDQwRXFnV1g0dDVpU3xQTHJ0'}]);
 _stq.push([ 'clickTrackerInit', '223063431', '15' ]);
 </script>
-<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
-<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Design a site like this with WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/en-gb?ref=marketing_bar">Get started</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://wordpress.com/start/en-gb?ref=marketing_bar"></a></div>		<script type="text/javascript">
-			window._tkq = window._tkq || [];
-			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
-				link.addEventListener( 'click', ( e ) => {
-					window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_cta_click', {"is_current_user_blog_owner":true} ] );
-				} );
-			});
-		</script><script>
-if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
-
-	wpcom_mobile_user_agent_info.init();
-	var mobileStatsQueryString = "";
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
-		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
-		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
-	
-	if( wpcom_mobile_user_agent_info.isIPad() )
-		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
-
-	if( "" != mobileStatsQueryString ) {
-		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
-	}
-	
-}
-</script></body>
+</body>
 </html>
