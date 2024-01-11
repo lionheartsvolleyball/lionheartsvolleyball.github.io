@@ -4,3 +4,4 @@ BAD_BANNER="<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href
 
 find . -mindepth 1 -type f -exec sed -i '' "s|${BAD_BANNER}||g" {} \;
 
+find . -type f -exec sed -i '' "/Design a site like this/d" {} \;
