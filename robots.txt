@@ -17,31 +17,4 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-User-agent: CCBot
-Disallow: /
-
-User-agent: SentiBot
-Disallow: /
-
-User-agent: sentibot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: FacebookBot
-Disallow: /
-
-User-agent: omgili
-Disallow: /
-
-User-agent: omgilibot
-Disallow: /
-
-User-agent: Amazonbot
-Disallow: /
-
-User-agent: Bingbot
-Disallow: /
-
-# This file was generated on Sun, 21 Jan 2024 15:18:58 +0000
+# This file was generated on Sat, 19 Apr 2025 05:04:11 +0000

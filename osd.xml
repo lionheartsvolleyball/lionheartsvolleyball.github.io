@@ -8,8 +8,8 @@
 	<Url type="text/html" template="https://testdomain845.wordpress.com/?s={searchTerms}" method="GET" />
 	<Url type="application/opensearchdescription+xml" rel="self" template="https://testdomain845.wordpress.com/osd.xml" />
 	<LongName>London Lionhearts Volleyball Club</LongName>
-	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://testdomain845.files.wordpress.com/2023/09/lionhearts-club-logo.jpg?w=16</Image>
-	<Image height="64" width="64" type="image/jpeg">https://testdomain845.files.wordpress.com/2023/09/lionhearts-club-logo.jpg?w=64</Image>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://testdomain845.wordpress.com/wp-content/uploads/2023/09/lionhearts-club-logo.jpg?w=16</Image>
+	<Image height="64" width="64" type="image/jpeg">https://testdomain845.wordpress.com/wp-content/uploads/2023/09/lionhearts-club-logo.jpg?w=64</Image>
 	<Query role="example" searchTerms="photography" />
 	<Tags>blog</Tags>
 	<Developer>Automattic</Developer>
