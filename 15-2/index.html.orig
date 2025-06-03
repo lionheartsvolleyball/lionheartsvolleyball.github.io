@@ -971,7 +971,7 @@ pre.wp-block-verse{overflow:auto;white-space:pre-wrap}:where(pre.wp-block-verse)
 :root :where(.wp-block-site-title a:where(:not(.wp-element-button)):hover){text-decoration: underline;}
 </style>
 <style id='core-block-supports-inline-css'>
-.wp-elements-74d9c587c704a765f018836daab4c876 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast);}.wp-container-core-group-is-layout-7a92790e{gap:24px;}.wp-container-core-navigation-is-layout-f665d2b5{justify-content:flex-end;}.wp-container-core-group-is-layout-b585a4aa{justify-content:space-between;}.wp-container-core-group-is-layout-23b1a4dc > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}.wp-elements-b946855be0b156638ed45aff3fbcccc6 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-elements-6c50faaac98fb06720cdf18012fd69af a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-elements-6c50faaac98fb06720cdf18012fd69af a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--vivid-cyan-blue);}.wp-elements-bc03e5eb4a721c9139aaab84504b848d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-elements-bc03e5eb4a721c9139aaab84504b848d a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--vivid-cyan-blue);}.wp-container-core-group-is-layout-47e5a185 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-47e5a185 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-container-core-columns-is-layout-28f84493{flex-wrap:nowrap;}.wp-container-core-group-is-layout-7fea69c4 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-7fea69c4 > * + *{margin-block-start:50px;margin-block-end:0;}.wp-container-core-group-is-layout-53118e0a > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-53118e0a > * + *{margin-block-start:30px;margin-block-end:0;}.wp-container-core-social-links-is-layout-74ca9e7f{gap:16px 16px;}.wp-container-core-column-is-layout-1a0eff7f > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-1a0eff7f > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-columns-is-layout-00723822{flex-wrap:nowrap;gap:40px;}.wp-container-core-group-is-layout-a46d41a6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-a46d41a6 > * + *{margin-block-start:8px;margin-block-end:0;}
+.wp-elements-74d9c587c704a765f018836daab4c876 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast);}.wp-container-core-group-is-layout-7a92790e{gap:24px;}.wp-container-core-navigation-is-layout-f665d2b5{justify-content:flex-end;}.wp-container-core-group-is-layout-b585a4aa{justify-content:space-between;}.wp-container-core-group-is-layout-23b1a4dc > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}.wp-elements-35830e10620299a7485bc365bfc3a275 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-elements-6c50faaac98fb06720cdf18012fd69af a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-elements-6c50faaac98fb06720cdf18012fd69af a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--vivid-cyan-blue);}.wp-elements-bc03e5eb4a721c9139aaab84504b848d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-elements-bc03e5eb4a721c9139aaab84504b848d a:where(:not(.wp-element-button)):hover{color:var(--wp--preset--color--vivid-cyan-blue);}.wp-container-core-group-is-layout-47e5a185 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-47e5a185 > * + *{margin-block-start:0px;margin-block-end:0;}.wp-container-core-columns-is-layout-28f84493{flex-wrap:nowrap;}.wp-container-core-group-is-layout-7fea69c4 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-7fea69c4 > * + *{margin-block-start:50px;margin-block-end:0;}.wp-container-core-group-is-layout-53118e0a > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-53118e0a > * + *{margin-block-start:30px;margin-block-end:0;}.wp-container-core-social-links-is-layout-74ca9e7f{gap:16px 16px;}.wp-container-core-column-is-layout-1a0eff7f > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-1a0eff7f > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-columns-is-layout-00723822{flex-wrap:nowrap;gap:40px;}.wp-container-core-group-is-layout-a46d41a6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-a46d41a6 > * + *{margin-block-start:8px;margin-block-end:0;}
 </style>
 <link crossorigin='anonymous' rel='stylesheet' id='all-css-40-1' href='https://s1.wp.com/_static/??-eJxdjNsKwjAQRH/IuJYK7Yv4LU1Y69q9BDZB/HtXBCm+zZzhDDxrKqYNtYH0VLmvpA7FRAIlpg2j+R85BjkAgVqjsP0XvsPus91R4qH2DJmtbHlxhMUdW0DT142YP9JVLsM0TuN5Ps3D4w3DGDdL&cssminify=yes' type='text/css' media='all' />
 <style id='akismet-widget-style-inline-css'>
@@ -1060,7 +1060,7 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https:\/\/s1.wp.com\/wp-content\/m
 <meta property="og:url" content="https://testdomain845.wordpress.com/15-2/" />
 <meta property="og:description" content="Meet Our Teams London Lionhearts Club is made up of 8 adult teams &#8211; 4 women&#8217;s teams and 4 men&#8217;s teams. We also offer courses for juniors. Our teams compete within the the London V…" />
 <meta property="article:published_time" content="2023-09-02T21:15:58+00:00" />
-<meta property="article:modified_time" content="2024-01-21T14:52:04+00:00" />
+<meta property="article:modified_time" content="2025-06-03T23:24:19+00:00" />
 <meta property="og:site_name" content="London Lionhearts Volleyball Club" />
 <meta property="og:image" content="https://testdomain845.wordpress.com/wp-content/uploads/2024/01/lionhearts-east-23-4-edited.png" />
 <meta property="og:image:width" content="822" />
@@ -1080,7 +1080,7 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https:\/\/s1.wp.com\/wp-content\/m
 {"imports":{"@wordpress\/interactivity":"https:\/\/s0.wp.com\/wp-content\/plugins\/gutenberg-core\/v20.6.0\/build-module\/interactivity\/index.min.js?ver=d9948f13df6155717023"}}
 </script>
 <script type="module" src="https://s1.wp.com/wp-content/plugins/gutenberg-core/v20.6.0/build-module/block-library/navigation/view.min.js?ver=38dd13322236f359c8a9" id="@wordpress/block-library/navigation/view-js-module"></script>
-<link rel="modulepreload" href="https://s0.wp.com/wp-content/plugins/gutenberg-core/v20.6.0/build-module/interactivity/index.min.js?ver=d9948f13df6155717023" id="@wordpress/interactivity-js-modulepreload"><meta name="description" content="Meet Our Teams London Lionhearts Club is made up of 8 adult teams - 4 women&#039;s teams and 4 men&#039;s teams. We also offer courses for juniors. Our teams compete within the the London Volleyball Association&#039;s (LVA) London League and Volleyball England&#039;s National Volleyball League (NVL). London Lionhearts East NVL Women&#039;s Super League &amp; LVA&hellip;" />
+<link rel="modulepreload" href="https://s0.wp.com/wp-content/plugins/gutenberg-core/v20.6.0/build-module/interactivity/index.min.js?ver=d9948f13df6155717023" id="@wordpress/interactivity-js-modulepreload"><meta name="description" content="Meet Our Teams London Lionhearts Club is made up of 8 adult teams - 4 women&#039;s teams and 4 men&#039;s teams. We also offer courses for juniors. Our teams compete within the the London Volleyball Association&#039;s (LVA) London League and Volleyball England&#039;s National Volleyball League (NVL). Lionhearts Vinarius NVL Women&#039;s Super League Head coach: Davide&hellip;" />
 <script>
 var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 223063431, 'blog_language': 'en', 'is_wordads': false, 'hosting_type': 0, 'afp_account_id': null, 'afp_host_id': '5038568878849053', 'theme': 'pub/arbutus', '_': { 'title': 'Advertisement', 'privacy_settings': 'Privacy Settings' }, 'formats': [ 'belowpost', 'bottom_sticky', 'sidebar_sticky_right', 'sidebar', 'gutenberg_rectangle', 'gutenberg_leaderboard', 'gutenberg_mobile_leaderboard', 'gutenberg_skyscraper' ] };
 </script>
@@ -1184,7 +1184,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 22306343
 
 
 
-<div class="wp-block-group alignwide has-background-color has-foreground-background-color has-text-color has-background has-link-color wp-elements-b946855be0b156638ed45aff3fbcccc6 is-layout-constrained wp-container-core-group-is-layout-53118e0a wp-block-group-is-layout-constrained" style="margin-top:0px;margin-bottom:0px;padding-top:7vw;padding-bottom:7vw">
+<div class="wp-block-group alignwide has-background-color has-foreground-background-color has-text-color has-background has-link-color wp-elements-35830e10620299a7485bc365bfc3a275 is-layout-constrained wp-container-core-group-is-layout-53118e0a wp-block-group-is-layout-constrained" style="margin-top:0px;margin-bottom:0px;padding-top:7vw;padding-bottom:7vw">
 <h1 class="wp-block-heading alignwide has-text-align-center has-background-color has-text-color has-link-color wp-elements-6c50faaac98fb06720cdf18012fd69af">Meet Our Teams</h1>
 
 
@@ -1202,11 +1202,11 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 22306343
 
 
 <div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-47e5a185 wp-block-group-is-layout-flow">
-<h5 class="wp-block-heading has-background-color has-text-color" style="margin-bottom:15px;font-size:1.1rem;font-style:normal;font-weight:700">London Lionhearts East</h5>
+<h5 class="wp-block-heading has-background-color has-text-color" style="margin-bottom:15px;font-size:1.1rem;font-style:normal;font-weight:700">Lionhearts Vinarius</h5>
 
 
 
-<pre class="wp-block-verse has-small-font-size">NVL Women's Super League &amp; LVA Women's Premier League</pre>
+<pre class="wp-block-verse has-small-font-size">NVL Women's Super League </pre>
 
 
 
@@ -2051,7 +2051,7 @@ _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'223063431','blog_tz':'1','user_lang':'en-gb','blog_lang':'en-gb','user_id':'0'}]);
 _stq.push(['view', {'blog':'223063431','v':'wpcom','tz':'1','user_id':'0','post':'15','subd':'testdomain845'}]);
-_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRaGp+TjRzYk8/WjlKTlldS2xLW3JXM2lGeVowSjd+RlVzUyZqP1Y/LVQycVJSb1A3ZDRydSwxK1BYPURmSzhnWV8/YzVpLC1qbk12dnFuXVtOJlBXSXxEcjAyVmMwP3IuckI2W0gwUUpoZ0lzXXE0JV8tRldmeEdWWXRxMEUtNH52Pz9Ycnl4W0Y0OXI/Qy5xYXwsWmVmL2R6VHFOOC8uV1NWOURMNng0aTk2M29kN3J5X08vK1NOUmlkdTFsL1k3cEJCREg0OWNTTF0rWStlUmxBcHNBXUIrLl1XWHg3LjBObmxGXU96ZnNBTFZ8XzBxZnVOcWF5Z3U9a0JwbTAraUhM'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRaGp+TjRzYk8/WjlKTlldS2xLW3JXM2lGeVowSjd+RlVzUyZqP1Y/LVQycVJSb1A3ZDRydSwxK1BYPURmSzhnWV8/YzVpLC1qbk12dnFuXVtOJlBXSXxEcjAyVmMwP3IuckI2W0gwUUpoZ0lzXXE0JV8tRldmeEdWWXRxMEUtNH52Pz9Ycnl4W0Y0OXI/Qy5xYXwsWmVmL2R6JXF0LG9QZTlUL1Z+NDh4UVNMeFRJbTZiekpWUzdVenZVSHxiOUZdRW1WVEY4L09pMkRNam1wSV82RS8sQlpvY1N1TjhacHdHZ19lb1BDfi09LCtLWEx8NFlHMXRVUGFmQV9WUUNjdzdr'}]);
 _stq.push([ 'clickTrackerInit', '223063431', '15' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
@@ -2084,3 +2084,7 @@ _stq.push([ 'clickTrackerInit', '223063431', '15' ]);
 } )();
 </script></body>
 </html>
+<!--
+	generated in 0.191 seconds
+	168119 bytes batcached for 300 seconds
+-->
